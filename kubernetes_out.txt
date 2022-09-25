@@ -1,0 +1,8 @@
+NAME                READY   STATUS             RESTARTS   AGE
+python-sample-app   0/1     ImagePullBackOff   0          5m31s
+sample-app          1/1     Running            0          2m43s
+(.devops) user@users-mbp k8s-microservices-udacity % kubectl port-forward sample-app 8000:80
+Forwarding from 127.0.0.1:8000 -> 80
+Forwarding from [::1]:8000 -> 80
+Handling connection for 8000
+
