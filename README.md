@@ -1,4 +1,4 @@
-[![CircleCI](https://dl.circleci.com/status-badge/img/gh/isidioan/k8s-microservices-udacity/tree/main.svg?style=svg)](https://dl.circleci.com/status-badge/redirect/gh/isidioan/k8s-microservices-udacity/tree/main)
+[![CircleCI](https://dl.circleci.com/status-badge/img/gh/isidioan/k8s-microservices-udacity/tree/main.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/isidioan/k8s-microservices-udacity/tree/main)
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
